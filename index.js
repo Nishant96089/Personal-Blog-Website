@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const loadMoreBtn = document.getElementById('loadMoreBtn');
 
   // Number of cards to show initially and to add on each click
-  const initialCardsToShow = 6;
+  const initialCardsToShow = 4;
   const cardsToAddOnClick = 2;
   const totalCards = allCards.length;
 
